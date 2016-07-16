@@ -1,0 +1,19 @@
+.container-fluid {
+	padding-left: 38px;
+}
+.test-header {
+	padding-left: 22px;
+}
+.borderWidth {
+	border-style: ridge;
+	border-width: 2px;
+	width: 334px;
+	height: 225px;
+	padding: 2px;
+}
+.intolink {
+	margin: 3px;
+}
+.validationcolor {
+	color: red;
+}
